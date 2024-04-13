@@ -1,0 +1,17 @@
+.heading {
+    text-align: center;
+}
+
+.picture {
+    text-align: center;
+}
+
+.content {
+    vertical-align: middle;
+    display: block;
+    text-align: center;
+}
+
+.content.ul li {
+    text-align: left;
+}
